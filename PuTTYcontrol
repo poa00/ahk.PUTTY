@@ -1,0 +1,24 @@
+XXX Servers,Text,Text
+XXX1,XXX1.domain.company.com,Password
+XXX2,XXX2.domain.company.com,Password
+,Text,Text
+YYY Servers,Text,Text
+YYY1,YYY1.domain.company.com,SSH
+YYY2,YYY2.domain.company.com,SSH
+YYY3,YYY3.domain.company.com,SSH
+,Text,Text
+ZZZ Servers,Text,Text
+ZZZ1,ZZZ1.domain.company.com,SSH3
+ZZZ2,ZZZ2.domain.company.com,SSH3
+ZZZ3,ZZZ3.domain.company.com,SSH3
+,Text,Text
+GROUP ID LONG,Text,Text
+NAME Servers,Text,Text
+GROUP1,GROUP1.domain.company.com,SSH_GROUP_ID
+GROUP2,GROUP2.domain.company.com,SSH_GROUP_ID
+GROUP3,GROUP3.domain.company.com,SSH_GROUP_ID
+GROUP4,GROUP4.domain.company.com,SSH_GROUP_ID
+GROUP5,GROUP5.domain.company.com,SSH_GROUP_ID
+GROUP6,GROUP6.domain.company.com,SSH_GROUP_ID
+ODD_ONE,XXX.XXX.XX.YY,SSH_GROUP_ID
+,Text,Text

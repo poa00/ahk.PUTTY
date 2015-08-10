@@ -1,0 +1,6 @@
+This file maps the authorized users for the group to their appropriate non-standard IDs so that SSH can be used seamlessly on servers such as XXX. Simply add the user's normal ID, non-standard ID, and full name with a colon between. One line per user.
+
+aa1234:aadam:Addams A. Apple
+mm1234:mmick:Micky Mouse
+ob3333:oorb:Orange you glad I did not say Bananna
+ts9999:ttester:Tess T. Testerson
